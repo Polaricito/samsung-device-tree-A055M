@@ -6,3 +6,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
+Only tested on bit D (A055MUBSDDYJ1)
