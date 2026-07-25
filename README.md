@@ -6,4 +6,3 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-# samsung-device-tree-A055M
